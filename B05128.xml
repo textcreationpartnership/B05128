@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short treatise of the excellency of bees, hony [sic], mead, and metheglin with their singular and approved vertues. / By T.R. Med. Dr.</title>
+            <author>T. R., Dr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05128</idno>
+            <idno type="STC">Wing R90AA</idno>
+            <idno type="STC">ESTC R187362</idno>
+            <idno type="EEBO-CITATION">53981695</idno>
+            <idno type="OCLC">ocm 53981695</idno>
+            <idno type="VID">180306</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180306)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2825:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short treatise of the excellency of bees, hony [sic], mead, and metheglin with their singular and approved vertues. / By T.R. Med. Dr.</title>
+                  <author>T. R., Dr.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+                  <note>Of bees and their excellency -- Of hony, and its singular vertues -- Mead, hydromel and metheglin, with their uses and singular vertues.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bee products --  Therapeutic use --  Early works to 1800.</term>
+               <term>Bees --  Early works to 1800.</term>
+               <term>Mead --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:180306:1" rendition="simple:additions"/>
+            <head>A Short TREATISE Of the Excellency of BEES, HONY, MEAD and METHEGLIN; <hi>With their Singular and Approved VERT<g ref="char:V">Ʋ</g>ES.</hi>
+            </head>
+            <byline>By T. R. Med. Dr.</byline>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> Of BEES and their Excellency.</head>
+               <p>PLINY that great Naturaliſt (<hi>Lib.</hi> 2. <hi>pag.</hi> 5.) to expreſs the moſt tranſcendent Excellency of the Nature of Bees, ſaith thus, <hi>viz. Inter omnia Inſecta Principatus Apibus, &amp; jure praecipua admiratio; ſolis ex eo genere hominum cauſâ genitis:</hi> Of all Inſects, Bees are the Chief, and the moſt worthy to be had in Admiration, being the only things of that kind, which are bred for the behoof of Man.</p>
+               <p>He ſays further (<hi>Lib.</hi> 2. <hi>Chap.</hi> 10. <hi>pag.</hi> 3.) That the Work and Fruit of of the little Bee, is ſo great and wonderful, ſo comly for Order and Beau<g ref="char:EOLhyphen"/>ty; ſo Excellent for Art, Wiſdom and Ingenuity; and ſo full of Pleaſure with abundant Profit and little Charge: That the Contemplation of which may very well beſeem an ingenious Nature: And therefore (not without cauſe) are the Bees called the Muſes Birds: <hi>Apes, cum cauſâ, Muſarum di<g ref="char:EOLhyphen"/>cuntur volucres</hi> (Varro <hi>Lib.</hi> 3. <hi>Cap.</hi> 15.)</p>
+               <p>The Contemplation and Love of which, did ſo raviſh thoſe Antient and great Bee Maſters, viz. <hi>Ariſtomachus</hi> and <hi>Piliſcus</hi> (as <hi>Pliny</hi> reporteth in his Natural Hiſtory, <hi>Lib.</hi> 11. <hi>Cap.</hi> 9.) that they were pleaſed to ſpend moſt of their time, in this pleaſing Buſineſs.</p>
+               <p>Further, <hi>Ariſtotle</hi> himſelf, the Ancient and great Philoſopher, thought his <hi>Hiſtoria Animalium</hi> very lame and imperfect, unleſs he had inſerted a Par<g ref="char:EOLhyphen"/>ticular Tract of the Nature of Bees: of which he diſcourſeth more at large, than he doth of any other living Creatures.</p>
+               <p>
+                  <hi>Pliny</hi> likewiſe in his Natural Hiſtory, is very copious in and about this Melifluous Subject. Beſides diverſe others that have written thereof, as <hi>Collu<g ref="char:EOLhyphen"/>mella Varro, Palladius</hi> and <hi>Averroes,</hi> &amp;c. Yea, the Learned and Grave Fa<g ref="char:EOLhyphen"/>thers of the Church (St. <hi>Ambroſe</hi> and St. <hi>Iſodore</hi>) have thought it a Subject fit for their Pens.</p>
+               <p>Unto which I might add, both for Ornament and Authority, infinite others of theſe our later times, <hi>&amp;c.</hi>
+               </p>
+               <p>Amongſt which, I cannot but with all due Reſpect, approve of the late Invention of the New Bee-Houſes and Collonies (a Proſpect of which may
+<pb n="2" facs="tcp:180306:2"/>be ſeen, in his Majeſties Garden, in St. <hi>Jameſes</hi> Park) ſo much admired and ap<g ref="char:EOLhyphen"/>proved of, by the Royal Society at <hi>Greſham Colledge</hi> in <hi>London;</hi> and wiſh the Management thereof, might fall into the hands of ſuch Ingenious Perſons, as might further improve ſo uſeful an Invention, being already encouraged, by his gratious Majeſty, and ſince by diverſe perſons of Honour.</p>
+               <p>Make but Inſpection through their tranſparent Windows (before and be<g ref="char:EOLhyphen"/>hind the Collonies) and you cannot chuſe but admire, the Bees moſt incom<g ref="char:EOLhyphen"/>parable and ingenious works, curiouſly adorned, fitted and accompliſhed by aſſiduous Induſtry.</p>
+               <p>The Curioſity of their Fabrick, with its exquiſit Cells (when firſt I view<g ref="char:EOLhyphen"/>ed) on a ſuddain forced me into an unwonted Extaſy, with extream Admira<g ref="char:EOLhyphen"/>tion; as it did the moſt Experienced Mr. <hi>Charles Butler,</hi> in his Hiſtory of Bees, <hi>Cap.</hi> 6. <hi>pag.</hi> 103. <hi>n.</hi> 9. whoſe Condign Merits, neither Envy nor injurious Time ſhall ever obliterate, or bury in oblivion: nor anticipate my thoughts from peruſing his <hi>Feminine Monarchy</hi>
+                  <q>
+                     <l>Which when I Read; I'le to the World profeſs,</l>
+                     <l>My Debt to him (love, honour, thankfulneſs)</l>
+                  </q>
+               </p>
+               <p>And in the ſame acknowledgement, admire the curious Buildings of theſe ſmall Inſects or pretty Bees; often divertiſing my ſelf with this Quaere, <hi>viz.</hi>
+               </p>
+               <q>Quid non Solertia Vincat? <hi>&amp;c.</hi>
+               </q>
+               <p>And whilſt (Reader) I admire the many Myriads of both Sexes, with their admired Aſſiduity:</p>
+               <q>
+                  <l>Non</l>
+                  <l>Miraris Arte Conditas mirâ Domos</l>
+                  <l>Opeſque Regales in his reconditas?</l>
+                  <l>Solertia &amp; Labore</l>
+                  <l>Fiunt Omnia</l>
+               </q>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> Of HONY, and its Singular VERT<g ref="char:V">Ʋ</g>ES.</head>
+               <p>NEXT I ſhall Treat of the Profits which ariſe from Bees, <hi>viz.</hi> HONY, with the ordering and uſe of <hi>Meath, Mead, Hydromel</hi> and <hi>Metheglin,</hi> with their ſingular Vertues, for the Uſe and Comfort of Mankind.</p>
+               <p>HONY, for the Extracting of which, the moſt natural and ſeaſonable time is in <hi>Auguſt</hi> (i. e. from the end of Dog days, until the ſixth day of <hi>September</hi> or thereabouts) becauſe till then the <hi>Combs</hi> are full of <hi>Skadons</hi> (which deceive the Hony-Men: make the Hive heavier and the Hony worſe) for the Skadons, Maggots, and young Bees, as well as the Sandarak, corrupt the ſame (experienced by the Ancient Bee-Maſter <hi>Collumella, Lib.</hi> 9. <hi>Cap.</hi> 15.) viz. <hi>Pulli &amp; rubroe ſordes ſunt Mali ſaporis, et ſucco ſuo mella corrumpunt.</hi>
+               </p>
+               <p>The time aforementioned for the running and working of Hony (<hi>viz.</hi> Engliſh Hony) is moſt proper fit and convenient, except in Hot Countrys, where their Gathering laſts longer.</p>
+               <p>Out of the new Invented Collonies, by reaſon of their neat contrivance, and moſt ingenious Shutters, is drawn the moſt Nectarian and beſt Hony (for the Bees by reaſon of the ſaid Shutters, there is no neceſſity of killing them, with either the Smoak of <hi>Brimſtone, Bunt, Tutchwood,</hi> or <hi>Muſhroom</hi>'s) which makes the Hony ſmell of ſmoak, and ſo conſequently renders it much worſe) for indeed it were a pitty to reward with Death, thoſe pretty and induſtrious Animals, out of whoſe Collonies we receive ſuch vaſt profits, as Honey and Wax (no ways adulterated) far excelling the other in Guſt and Odour.</p>
+               <pb n="3" facs="tcp:180306:2"/>
+               <p>Of all Hony that which runneth of it ſelf, is moſt commendable. 'Tis called (by our beſt Bee-Maſters) <hi>Acoeton</hi> or the fineſt <hi>Nectar,</hi> which for its incorrupted purity, (by others) is called Virgin Hony: becauſe (as <hi>Plantius</hi> in <hi>Fernel. Lib.</hi> 7. <hi>Method. Med</hi>) <hi>Quod, è Favis ſponte primùm defluit, virgineum Mel, vulgo appellatur.</hi>
+               </p>
+               <p>Whereof there are two ſorts, <hi>viz.</hi> Right Virgin-Honey (which is of a Swarm, and runs of it ſelf) 2. Baſtard Virgin-Hony (or rather to be called the fineſt Or<g ref="char:EOLhyphen"/>dinary) <hi>Varro Chap.</hi> 6. <hi>num</hi> 30.) which though it be of the ſame Swarm, yet be<g ref="char:EOLhyphen"/>ing mixt with other and laid up in corrupter Veſſels, and not in the pure Virgin Cells is rendred much inferiour to the true Virgin Hony.</p>
+               <p>The differences and degrees of Hony in goodneſs, are as well Natural as Ar<g ref="char:EOLhyphen"/>tificial.</p>
+               <p>For 'tis made better or worſe, by the ordering or handling of it: ſo is it in it ſelf better or worſe, according to the different Condition of the Soyl where it is gathered: for <hi>Varro Cap.</hi> 6 <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um</hi> 32. affirmeth) that the Champain Hony, is ac<g ref="char:EOLhyphen"/>counted much better than the Heath Hony, although they be ordered both alike.</p>
+               <p>Good Hony, when well wrought and fermented hath theſe properties and ex<g ref="char:EOLhyphen"/>cellent Qualities, whereby it is known and diſtinguiſhed; <hi>viz.</hi> It is clear, odo<g ref="char:EOLhyphen"/>riferous, yellow like pale Gold: but right Virgin Honey is more Cryſtaline at the firſt, <hi>viz.</hi> ſharp, ſweet, and pleaſant to the Taſt, of a mean conſiſtence be<g ref="char:EOLhyphen"/>tween thick and thin, ſo clammy that being taken up upon your Fingers end, in falling it will not part, but hang together like a long ſtring) as that uſeth to do, which is clarified. <hi>Plant.</hi> in <hi>Fern. Lib.</hi> 7. <hi>de Oxymelite.</hi> viz.</p>
+               <q>Mel probum eſt, quod inter Craſſimum &amp; tenuiſſimum eſt mediocre; ſapore dulciſſimum &amp; a<g ref="char:EOLhyphen"/>cerrimum; ſimulque dulcedinis ſenſum inferens, et vellicatu pungens linguam, calore pallidumat ſubrutilum, nec non pellucidum, odoratum &amp; recentiſſimum; quodque ſublatum, non facile ob ſe<g ref="char:EOLhyphen"/>quacem lentorem abrumpatur; pondere grave, &amp; inter Coquendum ſpumae parum emittens.</q>
+               <p>This good Hony (eſpecially that part which is in the bottom) will in time grow hard, (like unto Corny-Hony, which is in the uppermoſt part of the Combs) ſuch as is the Hony of <hi>Spain,</hi> and <hi>Narbona</hi> in <hi>France.</hi>
+               </p>
+               <p>Soe having given you, and Account of the beſt Hony, I ſhall likewiſe ſhew its ſingular Vertues, <hi>viz.</hi>
+               </p>
+               <div type="part">
+                  <head>VERTUES.</head>
+                  <p>It is hot and dry in the ſecond Degree; It is of ſubtile and thin parts, and eaſily paſſeth into all the parts of the Body. 'Tis abſterſive with ſome Acidity, and therefore it openeth all obſtructions. It cleareth the Breaſt and Lunges of thoſe Humors which fall upon them from the Head: 'Tis Laxative and purgeth the foulneſs of the Body, and provoketh Urine; it renders a good Appetite, and cleanſeth the Stomach from its Flegm, Filth and Crudities; It purgeth away thoſe things which offend the Eye-ſight. It nouriſhes very much; It ſtirrs up and highly preſerves natural heat; and thereby doth not only prolong, but likewiſe doth very much Solace old Age. It preſerveth all things that are put into it: It is a Soveraign Medicine both for inward and outward Maladies. It helpeth the grief of the Jaws and Scurvy; tis good againſt the Quinſy and ſore Throat; tis Drunk with good ſucceſs againſt the biting of Serpents or Mad Dogs. Laſtly in reſpect of which great and moſt admirable Vertues (the right compo<g ref="char:EOLhyphen"/>ſition of thoſe great Antidotes (<hi>viz. Mithridate</hi> and <hi>Andromachus</hi> Treacle) al<g ref="char:EOLhyphen"/>though they conſiſt; the one of more then fifty, the other of more then ſixty Ingredients) requires thrice ſo much Hony, as it doth of all the reſt.</p>
+                  <p>All which Premiſes conſidered; no Marvel that King <hi>Solomon</hi> ſaid; <hi>My Son eat Hony, for it is good.</hi> Yea Hony, if it be pure and fine, is ſo good in it ſelf, that it muſt needs be good for them whoſe queaſy Stomachs are averſe to it.</p>
+                  <p>Hony is moſt fit for old Men, <hi>&amp;c.</hi> And for ſuch as are Phlegmatick, or ſubject to Rheums; and tis generally good for all thoſe that are of Cold Conſtitutions.</p>
+                  <pb n="4" facs="tcp:180306:3" rendition="simple:additions"/>
+                  <p>In fine, The <hi>Quinteſſence</hi> of <hi>Hony,</hi> is of ſuch efficacy; that if any be dying, and preſently doth drink but two or three Dram's, he will ſuddainly Revive.</p>
+                  <p>Furthermore, if you but waſh any Wound therewith, or other Sore, it will heal it with all the ſpeed immaginable,</p>
+                  <p>I need ſay no more in Praiſe of its moſt tramſcendent Vertues; But only thus much, <hi>Viz.</hi>
+                     <q>Experto Crede Roberto.</q>
+                  </p>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> MEAD HYDROMEL <hi>and</hi> METHEGLIN, With their <g ref="char:V">Ʋ</g>ſes and ſingular VERT<g ref="char:V">Ʋ</g>ES.</head>
+               <p>THERE are two ſorts of <hi>Hydromel,</hi> viz. <hi>Mead</hi> and <hi>Metheglin.</hi>
+               </p>
+               <p>For the making of <hi>Mead,</hi> I ſhall only give you a hint or two (though not my Deſign here to inſert)</p>
+               <p>If the Muſt, when it is altogether be not ſtrong enough, to bear an Egg, the breadth of two pence above it: then put ſo much of your choiſeſt white Hony into it, as will give it that ſtrength; then give it its fit boyling, <hi>&amp;c.</hi> After this, put in the Herbs and Spices, and ſo let it boyl a quarter of an hour longer.</p>
+               <p>The end of boyling is throughly to incorporate the <hi>Mead</hi> and the <hi>Hony</hi> (pre<g ref="char:EOLhyphen"/>pared and ordered for that purpoſe) and to purge out the droſs and all other impurities.</p>
+               <p>Which being once done, any longer boyling is unproffitable, as diminiſhing more the quantity then increaſing the ſtrength and goodneſs of the <hi>Mead.</hi>
+               </p>
+               <p>As ſoon as it is boyled enough, take it from the Fire, and ſet it a cooling: the next day ſeparate the pure from the impure, ſtill reſerving the beſt for Uſe: and then ordering it as the Artiſt pleaſeth, in his beſt diſcretion: For the right ma<g ref="char:EOLhyphen"/>king of which, I much approve of Mr. <hi>Combs</hi> his way, at the <hi>Bee-Houſe</hi> and <hi>Colo<g ref="char:EOLhyphen"/>ny,</hi> in St. <hi>Bartholomew Lane;</hi> In whoſe Habitation I have ſeen conſiderable quan<g ref="char:EOLhyphen"/>tities of the beſt <hi>Engliſh Hony</hi> and <hi>Mead.</hi>
+               </p>
+               <p>
+                  <hi>Metheglin</hi> is only a Stronger <hi>Hydromel:</hi> being unto <hi>Mead</hi> (as <hi>Vinum</hi> to <hi>Lora</hi>) for it beareth an Egg the breadth of ſix pence, and is uſually made with more <hi>Hony</hi> and leſs <hi>Water,</hi> receiving into its Compoſition, as well wholeſom and ſweet Herbs, as alſo a large quantity of proper and fit Spices, <hi>&amp;c.</hi>
+               </p>
+               <div type="part">
+                  <head>
+                     <hi>MEAD,</hi> with its Singular VERT<g ref="char:V">Ʋ</g>ES.</head>
+                  <p>IT has all the ſingular Vertues of Hony above-mentioned, with this Addition:</p>
+                  <p>Firſt it is equally, if not more Cordial then <hi>Old Malago,</hi> and therefore may not undeſervedly be called <hi>Sacks-Maſter.</hi>
+                  </p>
+                  <p>Secondly it makes good Blood (by often drinking it) purging and carrying off all its impurities, whereby its obſtructions are ſoon removed, and its circulation much bettered. It recreates the Spirits (when dull and ſtupid) and gives them that ſolace, which will add much to their contentment; tis a proper and wholſom Liquor to be drunk at any ſeaſon of the Year; for what ill and crude wines leave behind them, this takes off. I need ſay no more, of its Excellent Qualities: but firſt Taſt, and then Judge, that its further goodneſs may both Anſwer and Crown its End with a <hi>Probatum eſt.</hi>
+                  </p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
